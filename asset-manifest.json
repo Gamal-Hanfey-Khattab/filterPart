@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/filterPart/static/css/main.0baf79ab.css",
+    "main.js": "/filterPart/static/js/main.32c69522.js",
+    "static/media/man-holding-white-teacup-in-front-of-gray-laptop.jpg": "/filterPart/static/media/man-holding-white-teacup-in-front-of-gray-laptop.fe0681eff911edd4fa42.jpg",
+    "static/media/Inter-VariableFont_slnt,wght.ttf": "/filterPart/static/media/Inter-VariableFont_slnt,wght.aadb65ac45347ff46699.ttf",
+    "static/media/man-gf3106a693_1280.jpg": "/filterPart/static/media/man-gf3106a693_1280.c58d396e1d6ad6c6e27b.jpg",
+    "static/media/man-gf4e58e0c3_1280.jpg": "/filterPart/static/media/man-gf4e58e0c3_1280.15b2c50766e7309f286e.jpg",
+    "static/media/computer-g8dee30bb2_1280.jpg": "/filterPart/static/media/computer-g8dee30bb2_1280.b6d870cf2780619416be.jpg",
+    "static/media/cellular-g87a5ca821_1280.jpg": "/filterPart/static/media/cellular-g87a5ca821_1280.c4510e6e0f6a6b266ad7.jpg",
+    "static/media/10-Productivity-Tips-to-Help-You-Master-Microsoft-Office-365-.jpg": "/filterPart/static/media/10-Productivity-Tips-to-Help-You-Master-Microsoft-Office-365-.d427a31379d5dfb8d5ec.jpg",
+    "static/media/photo-1537511446984-935f663eb1f4.jpg": "/filterPart/static/media/photo-1537511446984-935f663eb1f4.344e0a0427d4bcda47e3.jpg",
+    "static/media/istockphoto-522740003-170667a.jpg": "/filterPart/static/media/istockphoto-522740003-170667a.6b1af50540902017959d.jpg",
+    "static/media/Companies-Hiring-for-Remote-Work-From-Home-Jobs-Right-Now-1-1024x512.jpeg": "/filterPart/static/media/Companies-Hiring-for-Remote-Work-From-Home-Jobs-Right-Now-1-1024x512.410994e871a46f04b915.jpeg",
+    "static/media/istockphoto-528215881-612x612.jpg": "/filterPart/static/media/istockphoto-528215881-612x612.25cd2bf7b44f7405e83f.jpg",
+    "static/media/istockphoto-1307615661-612x612.jpg": "/filterPart/static/media/istockphoto-1307615661-612x612.9f77c866d2aabbacc386.jpg",
+    "static/media/image.webp": "/filterPart/static/media/image.5b7ae594ee3844fd15a5.webp",
+    "static/media/hilarious-office-worker-sitting-near-260nw-639637354.webp": "/filterPart/static/media/hilarious-office-worker-sitting-near-260nw-639637354.45ceba38908baa5286cc.webp",
+    "static/media/webp": "/filterPart/static/media/640a44f99ef79f0018286fed.ebadda66f4f913b84549.webp",
+    "static/media/logo.png": "/filterPart/static/media/logo.678bd80c4b5c46fe2ac7.png",
+    "index.html": "/filterPart/index.html",
+    "main.0baf79ab.css.map": "/filterPart/static/css/main.0baf79ab.css.map",
+    "main.32c69522.js.map": "/filterPart/static/js/main.32c69522.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0baf79ab.css",
+    "static/js/main.32c69522.js"
+  ]
+}

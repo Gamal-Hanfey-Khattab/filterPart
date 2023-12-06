@@ -43,4 +43,4 @@ npm start
 
 ## Credits
 
-This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)
+This project was created by [Gamal Khattab](https://github.com/gamal-khattab)

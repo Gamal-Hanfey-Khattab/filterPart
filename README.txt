@@ -1,72 +1,46 @@
-Inter Variable Font
-===================
+# Filtering  System
 
-This download contains Inter as both a variable font and static fonts.
+Filtering Part is a single-page application that filtering all jobs according of salary and other ..., , The application is built with React.js,Javascript, Redux , React Router, and Bootstrap for styling.
 
-Inter is a variable font with these axes:
-  slnt
-  wght
+## Features
 
-This means all the styles are contained in a single file:
-  Inter-VariableFont_slnt,wght.ttf
+- **Jobs**: Student can search for any availble jobs or internships.
+- **Responsive Design**: The layout adjusts gracefully to different screen sizes, ensuring a seamless experience on both desktops and mobile devices.
+- **State Handling**: The application handles various states like initial load, loading, error, and empty results, providing feedback to the user at each stage.
+- 
+## Setup and Run
 
-If your app fully supports variable fonts, you can now pick intermediate styles
-that aren’t available as static fonts. Not all apps support variable fonts, and
-in those cases you can use the static font files for Inter:
-  static/Inter-Thin.ttf
-  static/Inter-ExtraLight.ttf
-  static/Inter-Light.ttf
-  static/Inter-Regular.ttf
-  static/Inter-Medium.ttf
-  static/Inter-SemiBold.ttf
-  static/Inter-Bold.ttf
-  static/Inter-ExtraBold.ttf
-  static/Inter-Black.ttf
+1. Clone the repository:
 
-Get started
------------
+```
+git clone https://github.com/gamal-hanafi/filterPart.git
+```
 
-1. Install the font files you want to use
+2. Navigate to the project directory:
 
-2. Use your app's font picker to view the font family and all the
-available styles
+```
+cd Student-System
+```
 
-Learn more about variable fonts
--------------------------------
+3. Install dependencies using
 
-  https://developers.google.com/web/fundamentals/design-and-ux/typography/variable-fonts
-  https://variablefonts.typenetwork.com
-  https://medium.com/variable-fonts
+```
+npm install
+```
 
-In desktop apps
+4. Start the development server with
 
-  https://theblog.adobe.com/can-variable-fonts-illustrator-cc
-  https://helpx.adobe.com/nz/photoshop/using/fonts.html#variable_fonts
+```
+npm start
+```
 
-Online
+## Built With
 
-  https://developers.google.com/fonts/docs/getting_started
-  https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Fonts/Variable_Fonts_Guide
-  https://developer.microsoft.com/en-us/microsoft-edge/testdrive/demos/variable-fonts
+- [React.js](https://reactjs.org/) - The web framework used
+- [React Router](https://reactrouter.com/) - For navigation
+- Bootstrap - For styling 
 
-Installing fonts
 
-  MacOS: https://support.apple.com/en-us/HT201749
-  Linux: https://www.google.com/search?q=how+to+install+a+font+on+gnu%2Blinux
-  Windows: https://support.microsoft.com/en-us/help/314960/how-to-install-or-remove-a-font-in-windows
+## Credits
 
-Android Apps
-
-  https://developers.google.com/fonts/docs/android
-  https://developer.android.com/guide/topics/ui/look-and-feel/downloadable-fonts
-
-License
--------
-Please read the full license text (OFL.txt) to understand the permissions,
-restrictions and requirements for usage, redistribution, and modification.
-
-You can use them in your products & projects – print or digital,
-commercial or otherwise.
-
-This isn't legal advice, please consider consulting a lawyer and see the full
-license for all details.
+This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)## Setup and Run
